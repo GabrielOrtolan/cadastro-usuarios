@@ -1,3 +1,5 @@
+// Componente atualizado
+
 import { Tabs, Tab, Box } from '@mui/material';
 import PersonAddAltIcon from '@mui/icons-material/PersonAddAlt';
 import GroupIcon from '@mui/icons-material/Group';
